@@ -8,7 +8,10 @@ El programa el super sencillo de entender, tienes dos opciones para controlar el
 esos dos botones hacen diferentes cosas. Son para escoger sus armas y curas antes de la batalla y también son los mismos botones para hacer uso de armas y cura durante la batalla. 
 ***
 ## Version History
+- Versión [1.00] - 11/17/2024
 
+    - Versión inicial. Código base en c++.
+***
 ## Authors
 Creado por: 
 ##### Yedriel Laureano Marrero
